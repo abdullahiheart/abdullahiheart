@@ -9,7 +9,4 @@
 
 # 📈 Contribution Graph 
 <br />
-# 📈 Contribution Graph 
-<br />
-
 [![abdullahi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iqra-abdi&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/abdullahiheart)
