@@ -1,6 +1,6 @@
 ## Hi I'm Abdullahi Heart  </hr>
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abdullahiheart&show_icons=true&theme=dracula" />
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahiheart&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
 ## Connect with me
    <a href="https://twitter.com/AbdulahHeart">
     <img width="60px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
